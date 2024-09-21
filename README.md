@@ -1,5 +1,6 @@
 # Algorithms_py
-# Kaprekar's Constant
+
+## Kaprekar's Constant
 
 This script demonstrates the process of reaching Kaprekar's constant (6174) through a series of iterations using a four-digit number. 
 
@@ -19,4 +20,7 @@ This script demonstrates the process of reaching Kaprekar's constant (6174) thro
 ### Example
 
 For example, if the input number is `3524`, the output will show the iterations leading to Kaprekar's constant:
-
+Iteration 1: 5432 - 2345 = 3087 
+Iteration 2: 8730 - 378 = 8352 
+Iteration 3: 8532 - 2358 = 6174 
+Kaprekar's constant reached in 3 iterations! Bazinga!
